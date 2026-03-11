@@ -2,7 +2,7 @@
 
 **Estudante de Engenharia de Computação na UFG | Foco em Ciência de Dados, Machine Learning e Visão Computacional**
 
-Sou apaixonado por traduzir a teoria matemática e computacional em soluções reais de alto impacto. Atualmente, estou focado em aplicar Inteligência Artificial e Análise de Dados em cenários complexos, especialmente nos setores de **HealthTech** e **Mercado Financeiro**. 
+Sou apaixonado por traduzir a teoria matemática e computacional em soluções reais de alto impacto. Atualmente, estou focado em aplicar Inteligência Artificial e Análise de Dados em cenários complexos. 
 
 ### 🛠️ Minhas Ferramentas e Tecnologias
 
