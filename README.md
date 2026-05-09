@@ -29,9 +29,9 @@ Sou estudante de Engenharia de Computação na **UFG** e fundador do projeto **J
 ### 🚀 Projetos em Destaque
 
 * **[Dashboard Analítico Financeiro](https://github.com/JeanCarlosB/finance-streamlit-dashboard):** Pipeline ETL automatizado com ingestão via API e interface interativa em Streamlit.
-* **[Agente Autônomo de Campo Minado](https://github.com/JeanCarlosB/bot-minesweeper-opencv):** Automação lógica baseada em Visão Computacional e Inteligência Simbólica.
+* **[Agente Autônomo de Campo Minado](https://github.com/JeanCarlosB/cv-minesweeper-bot):** Automação lógica baseada em Visão Computacional e Inteligência Simbólica.
 * **[Detecção de Pneumonia via IA](https://github.com/JeanCarlosB/detecao-pneumonia-cnn):** Classificação de imagens médicas utilizando Redes Neurais Convolucionais (CNN).
-* **[Modelagem de Banco de Dados Logístico](https://github.com/JeanCarlosB/database-aviation-logistics):** Arquitetura relacional em PostgreSQL normalizada para alta integridade de dados (3NF).
+* **[Modelagem de Banco de Dados Logístico](https://github.com/JeanCarlosB/arquitetura-db-aviacao):** Arquitetura relacional em PostgreSQL normalizada para alta integridade de dados (3NF).
 
 ---
 
