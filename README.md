@@ -1,5 +1,7 @@
+![Banner do Jean](https://github.com/JeanCarlosB/jeansol-branding/blob/main/assets/banner_universalBR.png?raw=true)
+
 # Saudações! Sou o Jean Carlos! 🤠
-### Engenheiro de Computação | Soluções em Dados e IA
+### Atualmente atuando como Estagiário em Ciência de Dados na EloGroup |Engenheiro de Computação | Soluções em Dados e IA
 
 Sou estudante de Engenharia de Computação na **UFG** e fundador do projeto **JeanSol**, focado em traduzir teoria matemática e computacional em soluções reais de alto impacto. Atualmente, desenvolvo arquiteturas que unem **Engenharia de Dados**, **Visão Computacional** e **Automação Inteligente**.
 
